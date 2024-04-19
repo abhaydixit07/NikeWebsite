@@ -7,7 +7,7 @@ import {
   Subscribe, 
   SpecialOffers, 
   PopularProducts 
-} from './components/index.js';
+} from './sections/index.js';
 
 function App(){
   return (
