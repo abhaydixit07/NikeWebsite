@@ -13,9 +13,9 @@ import Nav from './components/Nav';
 function App(){
   return (
     <main className="relative">
-      Navef
-      <section className="x1:padding-1 wide:padding-r padding-b">
-        Hero
+      <Nav />
+      <section className="xl:padding-l wide:padding-r padding-b">
+        <Hero />
       </section>
 
       <section className="padding">

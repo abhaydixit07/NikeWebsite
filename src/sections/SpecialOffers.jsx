@@ -6,4 +6,4 @@ const SpecialOffers = () => {
   )
 }
 
-export default SpecialOffers
+export default SpecialOffers;
