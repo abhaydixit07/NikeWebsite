@@ -8,11 +8,12 @@ import {
   SpecialOffers, 
   PopularProducts 
 } from './sections/index.js';
+import Nav from './components/Nav'; 
 
 function App(){
   return (
     <main className="relative">
-      Nav
+      <Nav />
       <section className="x1:padding-1 wide:padding-r padding-b">
         <Hero />
       </section>
